@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\manav-uygulaması\manav-uygulaması\bin\Debug\manav-uygulaması.exe.config
+C:\Users\User\Desktop\manav-uygulaması\manav-uygulaması\bin\Debug\manav-uygulaması.exe
+C:\Users\User\Desktop\manav-uygulaması\manav-uygulaması\bin\Debug\manav-uygulaması.pdb
+C:\Users\User\Desktop\manav-uygulaması\manav-uygulaması\obj\Debug\manav-uygulaması.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\manav-uygulaması\manav-uygulaması\obj\Debug\manav-uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\manav-uygulaması\manav-uygulaması\obj\Debug\manav_uygulaması.Form1.resources
+C:\Users\User\Desktop\manav-uygulaması\manav-uygulaması\obj\Debug\manav_uygulaması.Properties.Resources.resources
+C:\Users\User\Desktop\manav-uygulaması\manav-uygulaması\obj\Debug\manav-uygulaması.csproj.GenerateResource.cache
+C:\Users\User\Desktop\manav-uygulaması\manav-uygulaması\obj\Debug\manav-uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\manav-uygulaması\manav-uygulaması\obj\Debug\manav-uygulaması.exe
+C:\Users\User\Desktop\manav-uygulaması\manav-uygulaması\obj\Debug\manav-uygulaması.pdb
